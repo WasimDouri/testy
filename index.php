@@ -3,6 +3,6 @@
   <title>Index</title>
  </head>
  <body>
- <?php echo '<p>Hello world from PHP! This change shows hanan om KS</p>'; ?> 
+ <?php echo '<p>Hello world from PHP! This change shows CI/CD using jenkins</p>'; ?> 
  </body>
 </html>
